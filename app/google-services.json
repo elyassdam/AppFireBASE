@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30608064798",
+    "project_id": "fir-ejemplo1-f8ce0",
+    "storage_bucket": "fir-ejemplo1-f8ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30608064798:android:326bb498f2f48e827c090f",
+        "android_client_info": {
+          "package_name": "com.example.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSnPnHdsI5Iw4OtxgaWBpJTBVcHyWjzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30608064798:android:94a1dbc9c0d8078e7c090f",
+        "android_client_info": {
+          "package_name": "com.example.miprimeraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSnPnHdsI5Iw4OtxgaWBpJTBVcHyWjzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
